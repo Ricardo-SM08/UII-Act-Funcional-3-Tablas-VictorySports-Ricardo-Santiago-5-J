@@ -1,6 +1,7 @@
 ## ACT 3 Victorysports funcional Ricardo Montañez 5°J
 
-<img width="1042" height="114" alt="image" src="https://github.com/user-attachments/assets/d0a23978-9d02-437e-8581-14762441c7ea" />
+<img width="1913" height="992" alt="image" src="https://github.com/user-attachments/assets/e4747ac1-45d3-483d-a63e-1761e63be138" />
+
 
 ## Proveedores
 
